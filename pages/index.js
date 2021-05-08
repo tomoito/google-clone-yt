@@ -42,7 +42,7 @@ export default function Home() {
           <ViewGridIcon className="h-10 w-10 p-2 text-blue-500  rounded-full hover:bg-gray-100 cursor-pointer" />
 
           {/* Avatar */}
-          <Avatar url="https://i.pinimg.com/236x/4f/27/2a/4f272aa3cc52ef963c5c486031ce2be3.jpg" />
+          <Avatar url="https://1.bp.blogspot.com/-BBaiJ8NaloQ/X9lJk-B1UlI/AAAAAAABc64/Jb1q0FfbqOcxST4xRQSHplif3mt9pJy0QCNcBGAsYHQ/s400/pose_reiwa_man.png" />
         </div>
       </header>
       {/* END HEADER */}
